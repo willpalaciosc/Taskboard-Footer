@@ -1,0 +1,11 @@
+.spacer {
+    flex: 1 1 auto;
+    /*flex basis - flex grow - flex shrink */
+  }
+
+  a{
+      color: white;
+      text-decoration: none;
+  }
+
+  
